@@ -16,7 +16,9 @@ img
 {
   display: block;
   margin: 0 auto;
-  border-radius: 100px;
+  border: solid, 100px;
+  border-radius: 15px 0 15px 0;
+  filter: sepia(50%)
 }
 h1 
 {
@@ -96,4 +98,8 @@ th, td {
   text-align: left;
   width: 33.3333%;
   font-size: 18px;
+}
+.josefina {
+  color: yellow;
+  font-family: 'Courier New', Courier, monospace;
 }
