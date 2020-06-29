@@ -19,3 +19,16 @@ h1
     align-content: left;
     position: relative;
 }
+.or {
+  left: 700px;
+  font-size: small;
+  position: relative;
+  
+}
+.barra
+{
+  position: relative;
+  left: 500px;
+  align-content: center;
+  font-size: medium;
+}
