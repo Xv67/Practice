@@ -57,7 +57,7 @@
             <option value="winner gets ice cream!"></option>
             <option value="looser gets dirt"></option>
             <br>
-            <label for="message">Meaningful Message</label>
+            <label for="message">Message</label>
         <input type="submit" value="Form My Story!">
       </form>
     </section>
